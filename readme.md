@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmnzs&show_icons=true&locale=en" alt="davidmnzs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmnzs&" alt="davidmnzs" /></p>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=davidmnzs&show_icons=true)
